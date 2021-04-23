@@ -12,5 +12,5 @@
 <br/>
 <p>Nos traductions, bien que soignées sont <b>amateures</b>, de ce fait, merci de votre indulgence quant aux éventuelles fautes de traduction et/ou de français rencontrées.</p>
 <br/>
-<a href="https://miaou-subs.com">Miaou Subs</a>
+<a href="https://miaou-subs.com">Miaou Subs</a><br/>
 <a href="https://nyaa.si/miaou-subs">Nyaa torrent</a>

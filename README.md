@@ -1,4 +1,4 @@
-# releases
+# miaou subs releases
 <h1>Hello minna !</h1>
 <p>Vous retrouverez ici les sous-titres de la Miaou Subs.<br>En cas d'erreurs dans les sous-titres, veuillez le signaler sur notre Discord ou en le rapportant directement sur GitHub !</p>
 <p>La Miaou évolue et va donc changer son format.</p>
